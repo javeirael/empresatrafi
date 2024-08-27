@@ -1,0 +1,24 @@
+{
+  "api": {
+    "USUARIO_NO_ENCONTRADO": "El usuario no existe",
+    "OCURRIO_UN_ERROR_AL_OBTENER_INFORMACION": "Ha ocurrido un error al obtener la información del usuario. Por favor intente nuevamente",
+    "CREDENCIALES_INCORRECTAS": "El correo electrónico y/o contraseña no son válidos. Por favor intente nuevamente.",
+    "USUARIO_ELIMINADO": "El usuario ha sido eliminado. Por favor contacta al administrador",
+    "USUARIO_CONFIRMAR_EMAIL": "Debes confirmar tu correo electrónico para poder acceder a la plataforma. Revisa tu correo electrónico",
+    "SOLICITUD_NO_CONFIRMADA": "Tu solicitud aún no ha sido confirmada",
+    "EMAIL_EN_USO": "Este correo electrónico ya está en uso, intente nuevamente con otro",
+    "ENLACE_DE_ACTIVACION_CUENTA": "Enlace de activación de cuenta enviado a su dirección de correo electrónico: {newUser.Email}",
+    "CREDENCIALES_TOKEN_INCORRECTAS": "El token y/o usuario no son válidos. Por favor intente nuevamente",
+    "EXITOSO_USUARIO_AUTORIZADO": "Usuario autorizado exitosamente",
+    "ERROR_USUARIO_AUTORIZADO": "Ha ocurrido un error al autorizar el usuario. Por favor intente nuevamente",
+    "USUARIO_AUTORIZADO": "El usuario ya ha sido autorizado",
+    "USUARIO_RECHAZADO": "El usuario ha sido rechazado. Por favor contacta al administrador.",
+    "EMAIL_INCORRECTA": "El correo electrónico es inválido.",
+    "EMAIL_CONFIRMADO": "Correo electrónico confirmado exitosamente",
+    "EMAIL_TOKEN_INVALIDO": "Ha ocurrido un error al confirmar el correo electrónico. El token es inválido o ha expirado",
+    "RECUPERAR_CONTRASEÑA": "Se ha enviado un correo electrónico con las instrucciones para recuperar tu contraseña",
+    "ID_TOKEN_INVALIDO": "El id y/o token son inválidos",
+    "TOKEN_EXPIRADO": "Tu token de recuperación de contraseña ha expirado",
+    "CONTRASEÑA_ACTUALIZADA": "Tu contraseña se ha actualizado con éxito"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "auth": {
+    "USUARIO_NO_ENCONTRADO": "The user does not exist",
+    "OCURRIO_UN_ERROR_AL_OBTENER_INFORMACION": "An error occurred while retrieving user information. Please try again",
+    "CREDENCIALES_INCORRECTAS": "The email and/or password are not valid. Please try again.",
+    "USUARIO_ELIMINADO": "The user has been deleted. Please contact the administrator",
+    "USUARIO_CONFIRMAR_EMAIL": "You must confirm your email to access the platform. Check your email",
+    "SOLICITUD_NO_CONFIRMADA": "Your request has not been confirmed yet",
+    "EMAIL_EN_USO": "This email is already in use, please try again with another",
+    "ENLACE_DE_ACTIVACION_CUENTA": "Account activation link sent to your email address: {newUser.Email}",
+    "CREDENCIALES_TOKEN_INCORRECTAS": "The token and/or user are not valid. Please try again",
+    "EXITOSO_USUARIO_AUTORIZADO": "User successfully authorized",
+    "ERROR_USUARIO_AUTORIZADO": "An error occurred while authorizing the user. Please try again",
+    "USUARIO_AUTORIZADO": "The user has already been authorized",
+    "USUARIO_RECHAZADO": "The user has been rejected. Please contact the administrator.",
+    "EMAIL_INCORRECTA": "The email is invalid.",
+    "EMAIL_CONFIRMADO": "Email successfully confirmed",
+    "EMAIL_TOKEN_INVALIDO": "An error occurred while confirming the email. The token is invalid or has expired",
+    "RECUPERAR_CONTRASEÑA": "An email with instructions to recover your password has been sent",
+    "ID_TOKEN_INVALIDO": "The ID and/or token are invalid",
+    "TOKEN_EXPIRADO": "Your password recovery token has expired",
+    "CONTRASEÑA_ACTUALIZADA": "Your password has been successfully updated"
+  }
+}

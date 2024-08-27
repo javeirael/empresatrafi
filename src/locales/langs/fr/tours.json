@@ -1,0 +1,11 @@
+{
+  "title": "Visites",
+  "breadcrumbs": {
+    "home": "Accueil",
+    "tours": "Visites"
+  },
+  "search_placeholder": "Rechercher",
+  "filter_label": "Filtres",
+  "filter_destination": "Destination",
+  "filter_category": "Catégories"
+}

@@ -1,0 +1,15 @@
+{
+  "tabs": {
+    "tours": "Visites",
+    "transfers": "Transferts"
+  },
+  "tabs_content": {
+    "title": "Trouvez votre aventure parfaite",
+    "subtitle": "Destinations",
+    "search_placeholder": "Rechercher"
+  },
+  "destinations": {
+    "title": "Destinations populaires",
+    "subtitle": "Explorer les destinations les plus populaires"
+  }
+}

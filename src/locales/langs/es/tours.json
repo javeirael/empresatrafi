@@ -1,0 +1,11 @@
+{
+  "title": "Tours",
+  "breadcrumbs": {
+    "home": "Inicio",
+    "tours": "Tours"
+  },
+  "search_placeholder": "Buscar",
+  "filter_label": "Filtros",
+  "filter_destination": "Destino",
+  "filter_category": "Categorías"
+}

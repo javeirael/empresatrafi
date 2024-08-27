@@ -1,0 +1,24 @@
+{
+  "api": {
+    "USUARIO_NO_ENCONTRADO": "L'utilisateur n'existe pas",
+    "OCURRIO_UN_ERROR_AL_OBTENER_INFORMACION": "Une erreur s'est produite lors de la récupération des informations de l'utilisateur. Veuillez réessayer",
+    "CREDENCIALES_INCORRECTAS": "L'email et/ou le mot de passe ne sont pas valides. Veuillez réessayer.",
+    "USUARIO_ELIMINADO": "L'utilisateur a été supprimé. Veuillez contacter l'administrateur",
+    "USUARIO_CONFIRMAR_EMAIL": "Vous devez confirmer votre email pour accéder à la plateforme. Vérifiez votre email",
+    "SOLICITUD_NO_CONFIRMADA": "Votre demande n'a pas encore été confirmée",
+    "EMAIL_EN_USO": "Cet email est déjà utilisé, veuillez réessayer avec un autre",
+    "ENLACE_DE_ACTIVACION_CUENTA": "Lien d'activation du compte envoyé à votre adresse email : {newUser.Email}",
+    "CREDENCIALES_TOKEN_INCORRECTAS": "Le jeton et/ou l'utilisateur ne sont pas valides. Veuillez réessayer",
+    "EXITOSO_USUARIO_AUTORIZADO": "Utilisateur autorisé avec succès",
+    "ERROR_USUARIO_AUTORIZADO": "Une erreur s'est produite lors de l'autorisation de l'utilisateur. Veuillez réessayer",
+    "USUARIO_AUTORIZADO": "L'utilisateur a déjà été autorisé",
+    "USUARIO_RECHAZADO": "L'utilisateur a été rejeté. Veuillez contacter l'administrateur.",
+    "EMAIL_INCORRECTA": "L'email est invalide.",
+    "EMAIL_CONFIRMADO": "Email confirmé avec succès",
+    "EMAIL_TOKEN_INVALIDO": "Une erreur s'est produite lors de la confirmation de l'email. Le jeton est invalide ou a expiré",
+    "RECUPERAR_CONTRASEÑA": "Un email avec des instructions pour récupérer votre mot de passe a été envoyé",
+    "ID_TOKEN_INVALIDO": "L'ID et/ou le jeton sont invalides",
+    "TOKEN_EXPIRADO": "Votre jeton de récupération de mot de passe a expiré",
+    "CONTRASEÑA_ACTUALIZADA": "Votre mot de passe a été mis à jour avec succès"
+  }
+}
